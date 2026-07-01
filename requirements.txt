@@ -1,0 +1,16 @@
+# requirements.txt for Pet Behavior Training Path Skill
+# Python dependencies for tools/knowledge_updater.py
+
+# Async HTTP client for API requests
+httpx>=0.27.0
+
+# Async file operations
+aiofiles>=24.1.0
+
+# Date parsing utilities
+python-dateutil>=2.9.0
+
+# Optional: crawl4ai for advanced web scraping (if needed for complex pages)
+# crawl4ai>=0.3.0
+
+# Note: asyncio is part of Python 3.7+ standard library
